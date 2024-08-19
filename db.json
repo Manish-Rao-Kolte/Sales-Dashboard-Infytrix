@@ -1,0 +1,529 @@
+{
+  "sales_data": [
+    {
+      "date": "2024-08-19",
+      "sales": [
+        {
+          "product_id": "P001",
+          "product_name": "Product A",
+          "category": "Electronics",
+          "quantity_sold": 30,
+          "total_sales_amount": 1500.00
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Product B",
+          "category": "Furniture",
+          "quantity_sold": 10,
+          "total_sales_amount": 2500.00
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Product C",
+          "category": "Clothing",
+          "quantity_sold": 50,
+          "total_sales_amount": 800.00
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Product D",
+          "category": "Kitchenware",
+          "quantity_sold": 45,
+          "total_sales_amount": 600.00
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Product E",
+          "category": "Books",
+          "quantity_sold": 70,
+          "total_sales_amount": 300.00
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Product F",
+          "category": "Electronics",
+          "quantity_sold": 20,
+          "total_sales_amount": 400.00
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Product G",
+          "category": "Furniture",
+          "quantity_sold": 40,
+          "total_sales_amount": 700.00
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Product H",
+          "category": "Clothing",
+          "quantity_sold": 60,
+          "total_sales_amount": 400.00
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Product I",
+          "category": "Books",
+          "quantity_sold": 15,
+          "total_sales_amount": 900.00
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Product J",
+          "category": "Kitchenware",
+          "quantity_sold": 80,
+          "total_sales_amount": 250.00
+        }
+      ]
+    },
+    {
+      "date": "2024-08-18",
+      "sales": [
+        {
+          "product_id": "P001",
+          "product_name": "Product A",
+          "category": "Electronics",
+          "quantity_sold": 25,
+          "total_sales_amount": 1250.00
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Product B",
+          "category": "Furniture",
+          "quantity_sold": 12,
+          "total_sales_amount": 2400.00
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Product C",
+          "category": "Clothing",
+          "quantity_sold": 55,
+          "total_sales_amount": 850.00
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Product D",
+          "category": "Kitchenware",
+          "quantity_sold": 50,
+          "total_sales_amount": 640.00
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Product E",
+          "category": "Books",
+          "quantity_sold": 65,
+          "total_sales_amount": 290.00
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Product F",
+          "category": "Electronics",
+          "quantity_sold": 22,
+          "total_sales_amount": 440.00
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Product G",
+          "category": "Furniture",
+          "quantity_sold": 44,
+          "total_sales_amount": 740.00
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Product H",
+          "category": "Clothing",
+          "quantity_sold": 62,
+          "total_sales_amount": 420.00
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Product I",
+          "category": "Books",
+          "quantity_sold": 16,
+          "total_sales_amount": 920.00
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Product J",
+          "category": "Kitchenware",
+          "quantity_sold": 85,
+          "total_sales_amount": 270.00
+        }
+      ]
+    },
+    {
+      "date": "2024-08-17",
+      "sales": [
+        {
+          "product_id": "P001",
+          "product_name": "Product A",
+          "category": "Electronics",
+          "quantity_sold": 28,
+          "total_sales_amount": 1400.00
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Product B",
+          "category": "Furniture",
+          "quantity_sold": 14,
+          "total_sales_amount": 2800.00
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Product C",
+          "category": "Clothing",
+          "quantity_sold": 60,
+          "total_sales_amount": 900.00
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Product D",
+          "category": "Kitchenware",
+          "quantity_sold": 55,
+          "total_sales_amount": 720.00
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Product E",
+          "category": "Books",
+          "quantity_sold": 68,
+          "total_sales_amount": 320.00
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Product F",
+          "category": "Electronics",
+          "quantity_sold": 24,
+          "total_sales_amount": 480.00
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Product G",
+          "category": "Furniture",
+          "quantity_sold": 47,
+          "total_sales_amount": 780.00
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Product H",
+          "category": "Clothing",
+          "quantity_sold": 65,
+          "total_sales_amount": 430.00
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Product I",
+          "category": "Books",
+          "quantity_sold": 18,
+          "total_sales_amount": 940.00
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Product J",
+          "category": "Kitchenware",
+          "quantity_sold": 90,
+          "total_sales_amount": 300.00
+        }
+      ]
+    },
+    {
+      "date": "2024-08-16",
+      "sales": [
+        {
+          "product_id": "P001",
+          "product_name": "Product A",
+          "category": "Electronics",
+          "quantity_sold": 22,
+          "total_sales_amount": 1100.00
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Product B",
+          "category": "Furniture",
+          "quantity_sold": 13,
+          "total_sales_amount": 2600.00
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Product C",
+          "category": "Clothing",
+          "quantity_sold": 58,
+          "total_sales_amount": 880.00
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Product D",
+          "category": "Kitchenware",
+          "quantity_sold": 52,
+          "total_sales_amount": 680.00
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Product E",
+          "category": "Books",
+          "quantity_sold": 60,
+          "total_sales_amount": 270.00
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Product F",
+          "category": "Electronics",
+          "quantity_sold": 25,
+          "total_sales_amount": 500.00
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Product G",
+          "category": "Furniture",
+          "quantity_sold": 43,
+          "total_sales_amount": 720.00
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Product H",
+          "category": "Clothing",
+          "quantity_sold": 70,
+          "total_sales_amount": 440.00
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Product I",
+          "category": "Books",
+          "quantity_sold": 20,
+          "total_sales_amount": 980.00
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Product J",
+          "category": "Kitchenware",
+          "quantity_sold": 95,
+          "total_sales_amount": 330.00
+        }
+      ]
+    },
+    {
+      "date": "2024-08-15",
+      "sales": [
+        {
+          "product_id": "P001",
+          "product_name": "Product A",
+          "category": "Electronics",
+          "quantity_sold": 35,
+          "total_sales_amount": 1750.00
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Product B",
+          "category": "Furniture",
+          "quantity_sold": 11,
+          "total_sales_amount": 2200.00
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Product C",
+          "category": "Clothing",
+          "quantity_sold": 64,
+          "total_sales_amount": 930.00
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Product D",
+          "category": "Kitchenware",
+          "quantity_sold": 49,
+          "total_sales_amount": 650.00
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Product E",
+          "category": "Books",
+          "quantity_sold": 55,
+          "total_sales_amount": 250.00
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Product F",
+          "category": "Electronics",
+          "quantity_sold": 23,
+          "total_sales_amount": 460.00
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Product G",
+          "category": "Furniture",
+          "quantity_sold": 45,
+          "total_sales_amount": 750.00
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Product H",
+          "category": "Clothing",
+          "quantity_sold": 66,
+          "total_sales_amount": 460.00
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Product I",
+          "category": "Books",
+          "quantity_sold": 22,
+          "total_sales_amount": 990.00
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Product J",
+          "category": "Kitchenware",
+          "quantity_sold": 100,
+          "total_sales_amount": 340.00
+        }
+      ]
+    },
+    {
+      "date": "2024-08-14",
+      "sales": [
+        {
+          "product_id": "P001",
+          "product_name": "Product A",
+          "category": "Electronics",
+          "quantity_sold": 30,
+          "total_sales_amount": 1500.00
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Product B",
+          "category": "Furniture",
+          "quantity_sold": 10,
+          "total_sales_amount": 2000.00
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Product C",
+          "category": "Clothing",
+          "quantity_sold": 50,
+          "total_sales_amount": 800.00
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Product D",
+          "category": "Kitchenware",
+          "quantity_sold": 45,
+          "total_sales_amount": 600.00
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Product E",
+          "category": "Books",
+          "quantity_sold": 70,
+          "total_sales_amount": 300.00
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Product F",
+          "category": "Electronics",
+          "quantity_sold": 20,
+          "total_sales_amount": 400.00
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Product G",
+          "category": "Furniture",
+          "quantity_sold": 40,
+          "total_sales_amount": 700.00
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Product H",
+          "category": "Clothing",
+          "quantity_sold": 60,
+          "total_sales_amount": 400.00
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Product I",
+          "category": "Books",
+          "quantity_sold": 15,
+          "total_sales_amount": 900.00
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Product J",
+          "category": "Kitchenware",
+          "quantity_sold": 80,
+          "total_sales_amount": 250.00
+        }
+      ]
+    },
+    {
+      "date": "2024-08-13",
+      "sales": [
+        {
+          "product_id": "P001",
+          "product_name": "Product A",
+          "category": "Electronics",
+          "quantity_sold": 27,
+          "total_sales_amount": 1350.00
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Product B",
+          "category": "Furniture",
+          "quantity_sold": 15,
+          "total_sales_amount": 3000.00
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Product C",
+          "category": "Clothing",
+          "quantity_sold": 55,
+          "total_sales_amount": 825.00
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Product D",
+          "category": "Kitchenware",
+          "quantity_sold": 60,
+          "total_sales_amount": 720.00
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Product E",
+          "category": "Books",
+          "quantity_sold": 65,
+          "total_sales_amount": 325.00
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Product F",
+          "category": "Electronics",
+          "quantity_sold": 18,
+          "total_sales_amount": 360.00
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Product G",
+          "category": "Furniture",
+          "quantity_sold": 42,
+          "total_sales_amount": 720.00
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Product H",
+          "category": "Clothing",
+          "quantity_sold": 68,
+          "total_sales_amount": 425.00
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Product I",
+          "category": "Books",
+          "quantity_sold": 20,
+          "total_sales_amount": 1000.00
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Product J",
+          "category": "Kitchenware",
+          "quantity_sold": 85,
+          "total_sales_amount": 340.00
+        }
+      ]
+    }
+  ]
+}
