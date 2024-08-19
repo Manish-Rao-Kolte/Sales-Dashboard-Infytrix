@@ -39,6 +39,8 @@ const BarChart = ({ data = [], type = "Prodouct" }) => {
         return item.category;
       } else if (type === "Product") {
         return item.product_name;
+      } else {
+        return "";
       }
     }),
     datasets: [
