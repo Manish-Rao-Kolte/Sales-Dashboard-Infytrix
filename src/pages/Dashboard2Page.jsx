@@ -15,11 +15,10 @@ const Dashboard2Page = () => {
   //get data on mount and when date changes.
   useEffect(() => {
     const fetchData = async (date) => {
-      const response = await fetch(
-        `http://localhost:5000/sales_data?date=${date}`
-      );
+      const response = await fetch(`${process.env.REACT_APP_SERVER_URI}`);
       const result = await response.json();
-      return result[0].sales;
+      const dayData = result?.filter((data) => data.date === date);
+      return dayData[0].sales;
     };
     //use stimeout to make api call effect
     setTimeout(async () => {

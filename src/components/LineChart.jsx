@@ -25,17 +25,19 @@ ChartJS.register(
 const LineChart = ({ data, type }) => {
   // Prepare the chart data
   const chartData = {
-    labels: data.map((item) => {
+    labels: data?.map((item) => {
       if (type === "Category") {
         return item.category;
       } else if (type === "Product") {
         return item.product_name;
+      } else {
+        return "";
       }
     }),
     datasets: [
       {
         label: "Sales Amount",
-        data: data.map((item) => item.total_sales_amount),
+        data: data?.map((item) => item.total_sales_amount),
         borderColor: "rgba(75,192,192,1)",
         backgroundColor: "rgba(75,192,192,0.2)",
         borderWidth: 2,
